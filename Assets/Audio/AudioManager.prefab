@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1473712133620564723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1473712133620564721}
+  - component: {fileID: 1473712133620564722}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1473712133620564721
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473712133620564723}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1473712133620564722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473712133620564723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbe378b54cb2de3429514369a135dd1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: MusicStart
+    clip: {fileID: 8300000, guid: 4d5a985af9988114882ceb9726613cb5, type: 3}
+    volume: 0.062
+    pitch: 0.69
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: MusicLoop
+    clip: {fileID: 8300000, guid: dec1d10edc02642499783f570918b954, type: 3}
+    volume: 0.051
+    pitch: 1.5
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: MusicStartForest
+    clip: {fileID: 8300000, guid: 04dbd2bf4c0526f43adf5ee3428bd7ba, type: 3}
+    volume: 0.117
+    pitch: 1.5
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: MusicLoopForest
+    clip: {fileID: 8300000, guid: f0302d3fb97b6e84a98b318d69083d92, type: 3}
+    volume: 0.337
+    pitch: 1.5
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  castleMusic: 1

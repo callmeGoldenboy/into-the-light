@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 8cdd847ab4f914d4cb3d23e9eb98958d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3112992731687410906
+    second: Swing01
+  - first:
+      213: -6796027618181921070
+    second: RopeSmall
+  - first:
+      213: -632514546528222623
+    second: RopeMedium
+  - first:
+      213: -3481291243706905559
+    second: RopeLarge
+  - first:
+      213: 7463284147226817773
+    second: SkullDecoBlack
+  - first:
+      213: 2431332968282582451
+    second: SkullDecoRed
+  - first:
+      213: 8504380184942139882
+    second: WoodenSwingBase
+  - first:
+      213: 1973562401019718802
+    second: CannonWheelFront
+  - first:
+      213: -860020704994670451
+    second: CannonWheelBack
+  - first:
+      213: 6084355521004319360
+    second: CannonRoot
+  - first:
+      213: 8193792764292979959
+    second: CannonBarrel
+  - first:
+      213: -3372628981263526927
+    second: CannonBalls
+  - first:
+      213: 456117211064905978
+    second: SkullLarge
+  - first:
+      213: -2527621135759914716
+    second: Swing01Bloody
+  - first:
+      213: 2160948748613884670
+    second: Spikes
+  - first:
+      213: -2479615447504402491
+    second: WoodenSpikes01
+  - first:
+      213: -8124706615479672075
+    second: WoodenSpikes02
+  - first:
+      213: -3504470977897274362
+    second: WoodenSpikes03
+  - first:
+      213: 5778521319000198238
+    second: WoodenSpikes04
+  - first:
+      213: -6904215040071366006
+    second: CannonBall
+  - first:
+      213: -6068584270617021639
+    second: SawBase
+  - first:
+      213: 1022807057320075967
+    second: ChainLink
+  - first:
+      213: 9063309129100470303
+    second: Chain01
+  - first:
+      213: -1908118830493422253
+    second: Chain02
+  - first:
+      213: 3950095107486512808
+    second: Chain03
+  - first:
+      213: 6308089987502242498
+    second: Chain04
+  - first:
+      213: -3957099063395814597
+    second: FloorTile01
+  - first:
+      213: 8789966295853031308
+    second: FloorTilleBlackSkull
+  - first:
+      213: -3168033761558031744
+    second: FloorTilleRedSkull
+  - first:
+      213: 1415754202311050417
+    second: FloorTileSquare
+  - first:
+      213: 8923023952551630215
+    second: MetalicSwingRoot
+  - first:
+      213: 2747713198920722561
+    second: MaceRed
+  - first:
+      213: -2211236013474135625
+    second: MaceBlack
+  - first:
+      213: 2779881214940103730
+    second: Swing02Bloody
+  - first:
+      213: 7777946582219308557
+    second: Swing02
+  - first:
+      213: -1822428086603964771
+    second: WoodenConector
+  - first:
+      213: 2899114194929477999
+    second: SawBloody
+  - first:
+      213: -8003346854188952629
+    second: SawClean
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swing01
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1453
+        width: 311
+        height: 571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5790386e3f5b54e73b51a7f94844f6fc
+      internalID: 3112992731687410906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeSmall
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1479
+        width: 23
+        height: 512
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f34db2f8be049b8bb6b6812b8c6b92
+      internalID: -6796027618181921070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeMedium
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1479
+        width: 20
+        height: 512
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde465825ee004f0fbf37e36925180cd
+      internalID: -632514546528222623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLarge
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1477
+        width: 32
+        height: 514
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f3d26e6c01b40548a295accb5e9acf
+      internalID: -3481291243706905559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullDecoBlack
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1803
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a4dc8b2f1b4c338d1f6f881fa1d4d
+      internalID: 7463284147226817773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullDecoRed
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1718
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf91b6567b04a25a4cf3c34e1d2a35
+      internalID: 2431332968282582451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSwingBase
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1906
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe8584d7e994f3c8df58f69446450a
+      internalID: 8504380184942139882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonWheelFront
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1811
+        width: 184
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f251ab864364e52b4075a6e3850f60
+      internalID: 1973562401019718802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonWheelBack
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1590
+        width: 184
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7c37f4f8e04f42aa702e74f8d7f74
+      internalID: -860020704994670451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRoot
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1930
+        width: 416
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0555bb4b7d376457a8b44c5c76295049
+      internalID: 6084355521004319360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonBarrel
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1603
+        width: 473
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55b2ecb8f998496b802e08728e7faaf
+      internalID: 8193792764292979959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonBalls
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1806
+        width: 262
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b969dda0103a46f2beaac3340e6253c
+      internalID: -3372628981263526927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullLarge
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1833
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fc36e97e2bb42dc8d9374affbd02fd
+      internalID: 456117211064905978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing01Bloody
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1600
+        width: 360
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d0062159b3c4633a7b342ab544cfe3
+      internalID: -2527621135759914716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1365
+        width: 475
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd61bf569c36041cb9c8aaae01343a36
+      internalID: 2160948748613884670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSpikes01
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1050
+        width: 420
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17d963a11fca41abb1dc7e11e0db691
+      internalID: -2479615447504402491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSpikes02
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1106
+        width: 420
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074624251f1e6471caa3e4219f13ff6b
+      internalID: -8124706615479672075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSpikes03
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1230
+        width: 420
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71e545133c724fee9fb5406a7ed7cde
+      internalID: -3504470977897274362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSpikes04
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1390
+        width: 420
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd6efc0554047d1b8ec12fb8898c94
+      internalID: 5778521319000198238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonBall
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1345
+        width: 211
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55977c3b2b2684fb796fe1f25c5b3098
+      internalID: -6904215040071366006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SawBase
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1031
+        width: 458
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c31e48c02d32406abd54c19a628d3b9
+      internalID: -6068584270617021639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainLink
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1410
+        width: 80
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9c779d768fc4b39ac7044a0f97c754
+      internalID: 1022807057320075967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain01
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 657
+        width: 23
+        height: 645
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef591c8db2de740c281f5e812729cb12
+      internalID: 9063309129100470303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain02
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 657
+        width: 30
+        height: 645
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5a7d0552da40d7823b345292deccb
+      internalID: -1908118830493422253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain03
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 657
+        width: 44
+        height: 645
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e25de69874a4a6cbe7a9bc1f19fe43
+      internalID: 3950095107486512808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain04
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 657
+        width: 57
+        height: 645
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8198c4321c4314bfdbc3f2689332a335
+      internalID: 6308089987502242498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorTile01
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1218
+        width: 494
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ebaed255eaf4925a69f9ccf75c0864
+      internalID: -3957099063395814597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorTilleBlackSkull
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1101
+        width: 494
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc73c44d326ac42d39804a65d149a155
+      internalID: 8789966295853031308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorTilleRedSkull
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 987
+        width: 494
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b052be6741414267bc87c8c38b07bc5
+      internalID: -3168033761558031744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorTileSquare
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 492
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7dd3d3ad3bb441c8210983c7036063
+      internalID: 1415754202311050417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalicSwingRoot
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 560
+        width: 386
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef835f7de064744c288153d632bc971a
+      internalID: 8923023952551630215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaceRed
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 60
+        width: 435
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffce727e8954451991af65293d551ba
+      internalID: 2747713198920722561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaceBlack
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 53
+        width: 429
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ecb23b15a8401c86fff13f393ab1a
+      internalID: -2211236013474135625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing02Bloody
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 59
+        width: 183
+        height: 471
+      alignment: 9
+      pivot: {x: 0.8674083, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ad21cd2d66481fa74a054c83b99b1
+      internalID: 2779881214940103730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swing02
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 9
+        width: 241
+        height: 621
+      alignment: 9
+      pivot: {x: 0.89058095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382578ad7caa471d96cc32242b9a31b
+      internalID: 7777946582219308557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenConector
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 11
+        width: 76
+        height: 589
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafcab11d99b14d9cb8a6dead0c75495
+      internalID: -1822428086603964771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SawBloody
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a2a0dba51c45de931a760673fd7d7
+      internalID: 2899114194929477999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SawClean
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 523
+        width: 483
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ef472adcb8c4250b8068f2665eb79c
+      internalID: -8003346854188952629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

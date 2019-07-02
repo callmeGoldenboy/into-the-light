@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa4a662793fe8a1408c1a8738a0a95d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ragdoll: {fileID: 6273517036113015708, guid: 26ca93f66ac61514f82826bf37225bc7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
