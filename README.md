@@ -4,4 +4,4 @@ is only able to see the part of the map that is covered by the light. The player
 on the other side of the map
 
 # Demo
-The game can be played on the browser and can be found [here](https://github.com/djikoSal).
+The game can be played on the browser and can be found [here](https://djikosal.github.io/).
